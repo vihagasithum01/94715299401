@@ -21,7 +21,7 @@
 ╚═╝░░░░░╚═╝╚═════╝░ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗠𝗥 VIHAGA-MD
 */
 
-SESSION_ID: process.env.SESSION_ID || "MONEY-HEIST-MD-HA1QSSBJ#E9e6o7p2FWskL8--RPUj0doy91IjxY_LRxJgWc-QeEw-DILALK", 
+SESSION_ID: process.env.SESSION_ID || "MONEY-HEIST-MD-DR9hSahA#McoOrPH1K1ncG5x5snmf1pXj07EpASWlFmBdqHMCtHE-DILALK", 
 MONGODB: process.env.MONGODB || "mongodb+srv://vihagasithum107:YBakcNX58KLzLple@cluster0.zeblpkc.mongodb.net/",
 
 
